@@ -1,5 +1,8 @@
 _repo: Torn-Sails-A-Tale-of-a-Welsh-Village_63502
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63502-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Raine, Allen
@@ -14,6 +17,8 @@ creator:
     - https://cy.wikipedia.org/wiki/Allen_Raine
     - https://en.wikipedia.org/wiki/Allen_Raine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63502#Torn-Sails-A-Tale-of-a-Welsh-Village
 gutenberg_issued: '2020-10-19'
 gutenberg_type: Text
 identifiers:
